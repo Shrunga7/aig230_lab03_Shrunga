@@ -1,0 +1,26 @@
+text,label
+VPN keeps disconnecting every 10 minutes on Windows 11 after latest update,network
+Password reset link is expired and user cannot login to the portal,auth
+"Email delivery delayed, outbound messages queued for hours",messaging
+"Cannot install printer driver, installer fails with error code 1603",device
+"MFA prompt never arrives on mobile app, user stuck at login",auth
+"WiFi signal drops in meeting rooms, access point reboot helps temporarily",network
+"Outlook search not returning results, index seems corrupted",messaging
+"Laptop battery drains fast after BIOS update, power settings unchanged",device
+"Portal shows 500 error when submitting form, happened after deployment",app
+"API requests timing out, latency spike observed in last hour",app
+"User cannot access shared drive, permission denied though in correct group",auth
+"Teams calls have choppy audio, jitter high on corporate network",network
+Push notifications not working on Android for the app,app
+"Mailbox is full and cannot receive emails, auto-archive not running",messaging
+"Bluetooth mouse not pairing after restart, device shows as unknown",device
+"DNS lookup fails randomly, websites do not load on office network",network
+"User locked out after too many login attempts, cannot unlock account",auth
+"Slack messages not syncing, notifications delayed on desktop app",messaging
+"Printer prints blank pages, tried reinstalling driver but still happens",device
+Mobile app crashes on startup after the latest version update,app
+Ethernet connection drops when laptop sleeps and wakes up,network
+Two-factor code not accepted even though it is correct,auth
+"Exchange calendar not syncing, meetings missing in Outlook",messaging
+"Touchpad not working after Windows update, device manager shows error",device
+"API returns 403 forbidden for valid token, started after config change",app
